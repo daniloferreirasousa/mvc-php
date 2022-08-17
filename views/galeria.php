@@ -1,0 +1,1 @@
+<h2>Está é a galeria de fotos do site</h2>
